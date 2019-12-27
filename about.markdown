@@ -14,3 +14,6 @@ permalink: /about/
 * I hate slow drivers, League of Legends, and keto diets.
 
 This blog is hosted by [GitHub pages](https://help.github.com/en/github/working-with-github-pages), and is statically generated using [Jekyll](https://github.com/jekyll).
+
+![image](/assets/vietnam-shaded-photo.jpg)
+

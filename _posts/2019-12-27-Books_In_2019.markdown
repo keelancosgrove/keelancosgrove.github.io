@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Top 5 Books Read in 2019"
+date:   2019-12-27 10:46:56 -0500
+categories: jekyll update
+---
+Here are my top five favorite books read in 2019. I read from a variety off subjects, including economics, business, leadership, health, and fiction. This list is based on the books I've found to be enjoyable and/or helpful.
+
+I've devoted approximately ten minutes to sorting this, so I'll probably change my mind. A better title for this post is "Five books I enjoyed reading in 2019".
+
+1. _East of Eden_ by John Steinbeck
+
+   I wasn't too fond of Grapes of Wrath in high school, so I hesitated to read over 600 pages of another Steinbeck novel in my free time. But it was well worth it. According to the author, it is a culmination of all his previous writing experience into a single novel, the novel that would define him. It contains a myriad of themes, from the clear biblical references to a coming of age story even to racism in the early 20th century. It touches on so many aspects of the human condition. I most enjoyed reading the conversations between Lee and Samuel Hamilton. Ultimately, the single idea the novel most stresses is the power of choice, "timshel". Through this idea, Caleb realizes that despite the biblical archetype he fits, he is not predetermined to sin. It's incredibly liberating to see this idea explored, that our path in life is determined not by a fixed hand but by our own choices.
+
+2. _The Emperor of all Maladies_ by Siddhartha Mukerjee
+
+   Mukerjee expertly weaves a story of cancer's role in human history. It is at parts scientific, at others historical, and sometimes even sociological. Most people, myself included, have some experience with cancer either directly or through friends/family. It's fascinating to see the approaches that scientists, politicians, and everyday citizens have had over the years to battle this complex disease. Mukerjee classifies the book best as a biography, chronicling the evolution of cancer and our attempts to conquer it. It raises the question so many of us wonder - where are we in the war against cancer, and what's the next step? While there is no clear end in sight, it's at least inspiring to see the efforts people have raised to save even a few patients.
+
+3. _One Up On Wall Street_ by Peter Lynch
+
+   Most practical investment books are verbose and overloaded with financial jargon. Here is ann easily readable book about investing by a legend in the industry, the leader of the Fidelity Magellan group. Lynch's primary claim is that ordinary people can sometimes beat large investment firms by simply observing trends in local businesses, particularly ones they're knowledgeable about. He offers several examples of "tenbaggers" (stocks that rose in price over 10x) identified this way. The reason I liked this book so much is that it gives a condensed explanation of how to succeed in the stock market beyond just investing in mutual funds, even though I haven't yet applied his advice.
+
+4. _Eating Animals_ by Jonathan Safran Foer
+
+   The book that almost made me a vegetarian. I can't present a environmetal or ethical reason for eating meat after reading this novel. It paints a grotesque (though potentially biased, from some reviews I've read) picture of the meat industry. Although I'm sure they wouldn't let the public in, I want to see for myself what's really inside a large animal farm owned by one of the major meat producing corporations like Tyson. After reading this, my flimsy defense for still being a carnivore is that it's convenient. That's it. I hope one day to revisit Eating Animals and similar literature, including books defending the meat industry to get a variety of opinions, so I can make a well-informed judgment.
+
+5. _Many Unhappy Returns_ by Charles Rossotti
+
+   Who would have thought that a book about the IRS could actually be interesting? That's not entirely true. This book is more about the process of transforming an untrusted organization laden with legacy organization and technological architecture into a modern functioning business. There's still a long way to go, but Rossotti's experience is illuminating to anyone interested in leadership.
+
+
+**Honorable Mention**: _Eat and Run: My Unlikely Journey to Ultramarathon Greatness_ by Scott Jurek
+
+I wasn't particularly impressed by his writing style. It was just a nice book to read while marathon training. Scott Jurek is a boss.
+
+So what's next? I'll be focusing more heavily on career development and exploration. I'll be looking for books related to software development, engineering management, product management, and corporate leadership. That's in addition to other yet to be uncovered subjects!
