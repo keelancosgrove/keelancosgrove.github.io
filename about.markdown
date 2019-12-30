@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+Hi friends. I enjoy writing and sharing ideas, so here's a blog.
+
 ...Who am I? Well, to start:
 
 * 24 years old, born in Toronto and lived most of my life in Connecticut. Now I'm in Seattle.
